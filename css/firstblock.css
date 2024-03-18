@@ -1,0 +1,58 @@
+.first__block__gradient{
+background: linear-gradient(147.17deg, #D251FF 0%, #FF7A00 100%);
+}
+.py-7{
+    padding: 82px 0 81px 0;
+}
+.main__h1{
+
+font-style: normal;
+font-weight: 700;
+font-size: 72px;
+line-height: 120%;
+color: #FFFFFF;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.p__header{
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 150%;
+color: #FFFFFF;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.gradient__h1{
+font-style: normal;
+font-weight: 700;
+font-size: 72px;
+line-height: 150%;
+text-align: center;
+
+background: linear-gradient(90deg, #FBC300 0%, #EA62E4 98.25%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+}
+.font-outline {
+    text-shadow: 1px 0 #000, -1px 0 #000, 0 1px #000, 0 -1px #000,
+    1px 1px #000, -1px -1px #000, 1px -1px #000, -1px 1px #000;
+}
+.circle{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: #FBC300;
+}
+.rectangle{
+    border-radius: 10px;
+    border-image: linear-gradient(147.17deg, #D251FF 0%, #FF7A00 100%);;
+    width: 250px;
+    height: 300px;
+    border:1px solid;
+    margin:auto;
+    background: #F5F9FE;}
+    .text_right{
+    color: #ffffff;
+    text-align: right;
+    }
+    
